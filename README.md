@@ -1,10 +1,10 @@
-# S12Briceno LiveData – App Móvil con Login usando Firebase y LiveData
+# S12Briceno_LiveData – App Móvil con Login usando Firebase y LiveData
 
 `S12Briceno_LiveData` es una aplicación móvil Android desarrollada en Kotlin como parte del curso de Aplicaciones Móviles. Este proyecto implementa un **sistema de login con autenticación usando Firebase** y demuestra el uso del patrón **MVVM** con **LiveData** para reaccionar a cambios en el estado de la sesión de forma eficiente y desacoplada.
 
 La app permite a los usuarios **registrarse** y **autenticarse** con su correo electrónico. Al iniciar sesión exitosamente, se les muestra una pantalla de bienvenida personalizada. Todo esto se maneja mediante Firebase Authentication y LiveData para actualizar la interfaz según el estado del login.
 
-Este trabajo fue desarrollado como parte de la **Semana 12**, enfocada en practicar arquitectura MVVM y uso de LiveData.
+Este trabajo fue desarrollado como parte de la **Semana 12** para el curso de Aplicaciones Moviles Unidad III, enfocada en practicar arquitectura MVVM y uso de LiveData.
 
 ---
 
